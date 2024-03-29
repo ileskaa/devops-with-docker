@@ -1,4 +1,4 @@
-```bash session
+```ShellSession
 [akseli@aybabtu part-1]$ docker run -d --name ubu devopsdockeruh/simple-web-service:ubuntu
 f3f05eba0b0ec375198a365c792de855b7836b50cd05cf34e0a83df8d9544adf
 [akseli@aybabtu part-1]$ docker exec -it ubu bash
