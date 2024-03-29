@@ -14,7 +14,7 @@ ubuntu                              latest    ca2b0f26964c   4 weeks ago   77.9M
 devopsdockeruh/simple-web-service   ubuntu    4e3362e907d5   3 years ago   83MB
 devopsdockeruh/simple-web-service   alpine    fd312adc88e0   3 years ago   15.7MB
 ```
-We can see that the Alpine is much smaller in size.
+We can see that the Alpine image is much smaller in size.
 
 Making sure the secret image functionality is the same:
 ```console
