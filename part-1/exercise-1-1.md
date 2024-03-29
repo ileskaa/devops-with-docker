@@ -1,4 +1,4 @@
-```sh
+```console
 [akseli@aybabtu part-1]$ docker ps -a
 CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS     NAMES
 da3b83985f1d   nginx     "/docker-entrypoint.…"   5 seconds ago    Up 4 seconds    80/tcp    tender_neumann
